@@ -1,2 +1,2 @@
-# Llama-Administration-Rule-Books
-Every Rule Book for the Llama Administration
+# Frog-Administration-Rule-Books
+Every Rule Book for the Frog Administration
